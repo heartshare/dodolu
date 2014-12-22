@@ -1,7 +1,7 @@
 dodolu
 ======
 
-a lightweight web framework based on openresty lua
+a lightweight web framework based on openresty lua, include a remote lua debugger([debugger](https://github.com/pwq1989/dodolu/tree/master/ddl/lualibs/debug))
 
 usage: 
 
